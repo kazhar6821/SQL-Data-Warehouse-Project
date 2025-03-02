@@ -7,10 +7,14 @@ Objective
 Design and implement a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and data-driven decision-making.
 
 Specifications
-Data Sources: Import data from two source systems (ERP and CRM) provided as CSV files.
-Data Quality: Clean and resolve data quality issues before analysis.
-Integration: Merge both sources into a unified, user-friendly data model optimized for analytical queries.
-Scope: Focus solely on the latest dataset; historical data storage is not required.
+Data Sources: 
+Import data from two source systems (ERP and CRM) provided as CSV files.
+Data Quality:
+Clean and resolve data quality issues before analysis.
+Integration:
+Merge both sources into a unified, user-friendly data model optimized for analytical queries.
+Scope:
+Focus solely on the latest dataset; historical data storage is not required.
 Documentation: Provide clear documentation of the data model to support business stakeholders and analytics teams.
 
 ## 🛡️ License
