@@ -16,6 +16,15 @@ Merge both sources into a unified, user-friendly data model optimized for analyt
 Scope:
 Focus solely on the latest dataset; historical data storage is not required.
 Documentation: Provide clear documentation of the data model to support business stakeholders and analytics teams.
+# BI: Analytics & Reporting (Data Analytics)
+Objective
+Develop SQL-based analytics to generate actionable insights into:
+
+Customer Behavior
+Product Performance
+Sales Trends
+These insights provide stakeholders with key business metrics, supporting data-driven strategic decision-making.
+
 
 ## 🛡️ License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
